@@ -26,4 +26,4 @@ Este projeto é uma solução para o desafio Full Cycle que consiste em criar um
 ### Build da imagem Docker localmente
 
 ```bash
-docker build -t seu-usuario/fullcycle .
+docker build -t igorandreyst/fullcycle .
